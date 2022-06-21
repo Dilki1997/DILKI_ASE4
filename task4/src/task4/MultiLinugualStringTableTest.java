@@ -11,4 +11,4 @@ class MultiLinugualStringTableTest {
         assertEquals(MultiLinugualStringTable.getMessage(2), "Have a good time playing Abominodo");
 
     }
-}
+};
