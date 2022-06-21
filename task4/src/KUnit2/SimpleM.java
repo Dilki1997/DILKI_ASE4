@@ -39,4 +39,4 @@ public class SimpleM {
 	  public String toString() {
 		  return String.format("(e:%f, f:%f)", e, f);
 	  }
-};
+}
